@@ -1,0 +1,5 @@
+C:\Users\JM\source\repos\tarea9\tarea9\bin\Debug\tarea9.exe.config
+C:\Users\JM\source\repos\tarea9\tarea9\bin\Debug\tarea9.exe
+C:\Users\JM\source\repos\tarea9\tarea9\bin\Debug\tarea9.pdb
+C:\Users\JM\source\repos\tarea9\tarea9\obj\Debug\tarea9.exe
+C:\Users\JM\source\repos\tarea9\tarea9\obj\Debug\tarea9.pdb
