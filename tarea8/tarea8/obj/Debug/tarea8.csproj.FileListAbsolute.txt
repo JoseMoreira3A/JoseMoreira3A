@@ -1,0 +1,5 @@
+C:\Users\JM\source\repos\tarea8\tarea8\bin\Debug\tarea8.exe.config
+C:\Users\JM\source\repos\tarea8\tarea8\bin\Debug\tarea8.exe
+C:\Users\JM\source\repos\tarea8\tarea8\bin\Debug\tarea8.pdb
+C:\Users\JM\source\repos\tarea8\tarea8\obj\Debug\tarea8.exe
+C:\Users\JM\source\repos\tarea8\tarea8\obj\Debug\tarea8.pdb
