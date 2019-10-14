@@ -1,0 +1,6 @@
+C:\Users\JM\source\repos\Tarea6\Tarea6\bin\Debug\Tarea6.exe.config
+C:\Users\JM\source\repos\Tarea6\Tarea6\bin\Debug\Tarea6.exe
+C:\Users\JM\source\repos\Tarea6\Tarea6\bin\Debug\Tarea6.pdb
+C:\Users\JM\source\repos\Tarea6\Tarea6\obj\Debug\Tarea6.csprojAssemblyReference.cache
+C:\Users\JM\source\repos\Tarea6\Tarea6\obj\Debug\Tarea6.exe
+C:\Users\JM\source\repos\Tarea6\Tarea6\obj\Debug\Tarea6.pdb
