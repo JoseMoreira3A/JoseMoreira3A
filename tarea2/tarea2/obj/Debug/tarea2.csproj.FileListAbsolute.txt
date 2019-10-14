@@ -1,0 +1,6 @@
+C:\Users\JM\source\repos\tarea2\tarea2\bin\Debug\tarea2.exe.config
+C:\Users\JM\source\repos\tarea2\tarea2\bin\Debug\tarea2.exe
+C:\Users\JM\source\repos\tarea2\tarea2\bin\Debug\tarea2.pdb
+C:\Users\JM\source\repos\tarea2\tarea2\obj\Debug\tarea2.csprojAssemblyReference.cache
+C:\Users\JM\source\repos\tarea2\tarea2\obj\Debug\tarea2.exe
+C:\Users\JM\source\repos\tarea2\tarea2\obj\Debug\tarea2.pdb
