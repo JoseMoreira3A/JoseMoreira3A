@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TadPila", "TadPila\TadPila.csproj", "{24DBA162-78F3-4296-89FD-BE00C0A7EDCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24DBA162-78F3-4296-89FD-BE00C0A7EDCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24DBA162-78F3-4296-89FD-BE00C0A7EDCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24DBA162-78F3-4296-89FD-BE00C0A7EDCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24DBA162-78F3-4296-89FD-BE00C0A7EDCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5EC0C15-E565-4D7D-800A-AF5FD086B475}
+	EndGlobalSection
+EndGlobal

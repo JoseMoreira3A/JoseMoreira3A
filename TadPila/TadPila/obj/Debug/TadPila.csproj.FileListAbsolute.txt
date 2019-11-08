@@ -1,0 +1,5 @@
+C:\Users\JM\source\repos\TadPila\TadPila\bin\Debug\TadPila.exe.config
+C:\Users\JM\source\repos\TadPila\TadPila\bin\Debug\TadPila.exe
+C:\Users\JM\source\repos\TadPila\TadPila\bin\Debug\TadPila.pdb
+C:\Users\JM\source\repos\TadPila\TadPila\obj\Debug\TadPila.exe
+C:\Users\JM\source\repos\TadPila\TadPila\obj\Debug\TadPila.pdb
