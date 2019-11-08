@@ -1,0 +1,6 @@
+C:\Users\JM\source\repos\TadCola\TadCola\bin\Debug\TadCola.exe.config
+C:\Users\JM\source\repos\TadCola\TadCola\bin\Debug\TadCola.exe
+C:\Users\JM\source\repos\TadCola\TadCola\bin\Debug\TadCola.pdb
+C:\Users\JM\source\repos\TadCola\TadCola\obj\Debug\TadCola.csprojAssemblyReference.cache
+C:\Users\JM\source\repos\TadCola\TadCola\obj\Debug\TadCola.exe
+C:\Users\JM\source\repos\TadCola\TadCola\obj\Debug\TadCola.pdb
