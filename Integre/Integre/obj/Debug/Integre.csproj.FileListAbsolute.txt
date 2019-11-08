@@ -1,0 +1,6 @@
+C:\Users\JM\source\repos\Integre\Integre\bin\Debug\Integre.exe.config
+C:\Users\JM\source\repos\Integre\Integre\bin\Debug\Integre.exe
+C:\Users\JM\source\repos\Integre\Integre\bin\Debug\Integre.pdb
+C:\Users\JM\source\repos\Integre\Integre\obj\Debug\Integre.csprojAssemblyReference.cache
+C:\Users\JM\source\repos\Integre\Integre\obj\Debug\Integre.exe
+C:\Users\JM\source\repos\Integre\Integre\obj\Debug\Integre.pdb
