@@ -1,0 +1,6 @@
+C:\Users\JM\source\repos\Flyweight\Flyweight\bin\Debug\Flyweight.exe.config
+C:\Users\JM\source\repos\Flyweight\Flyweight\bin\Debug\Flyweight.exe
+C:\Users\JM\source\repos\Flyweight\Flyweight\bin\Debug\Flyweight.pdb
+C:\Users\JM\source\repos\Flyweight\Flyweight\obj\Debug\Flyweight.csprojAssemblyReference.cache
+C:\Users\JM\source\repos\Flyweight\Flyweight\obj\Debug\Flyweight.exe
+C:\Users\JM\source\repos\Flyweight\Flyweight\obj\Debug\Flyweight.pdb
